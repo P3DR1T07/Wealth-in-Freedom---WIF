@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bienvenido a nuestra Comunidad</h1>
+        <p>Únete a nuestra comunidad en Telegram para estar al tanto de las últimas novedades.</p>
+        <a href="https://t.me/TuComunidad" target="_blank" class="btn">Únete a Telegram</a>
+    </div>
+
+</body>
+</html>
